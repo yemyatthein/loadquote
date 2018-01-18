@@ -1,4 +1,4 @@
-package com.yemyat.zopa.challenge;
+package com.yemyat.zopa.challenge.input;
 
 import com.yemyat.zopa.challenge.error.InvalidDataFormatException;
 import com.yemyat.zopa.challenge.model.LenderInfo;

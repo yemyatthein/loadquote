@@ -3,6 +3,7 @@ package com.yemyat.zopa.challenge;
 import com.yemyat.zopa.challenge.error.EmptyDataSourceException;
 import com.yemyat.zopa.challenge.error.InsufficientFundInSystemException;
 import com.yemyat.zopa.challenge.error.UnsupportedMoneyDenominationException;
+import com.yemyat.zopa.challenge.input.DataSource;
 import com.yemyat.zopa.challenge.interest.EffectiveInterestRateFunction;
 import com.yemyat.zopa.challenge.model.LenderInfo;
 import com.yemyat.zopa.challenge.model.RepaymentInfo;
