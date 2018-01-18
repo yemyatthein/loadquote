@@ -1,0 +1,11 @@
+How to use:
+-----------
+
+Run "./quote [CSV_FILE] [DESIRED_AMOUNT]"
+
+
+How to build:
+-----------
+
+Assuming that you have Maven in your system. Run "mvn compile"
+
